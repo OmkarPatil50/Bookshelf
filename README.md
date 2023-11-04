@@ -1,6 +1,5 @@
 # Bookshelf
 
-# Bookshelf Management Web Application
 
 This web application allows you to manage your bookshelves by organizing books into different categories. It provides an intuitive interface to view and categorize books, as well as a search functionality to discover and add new books to your library.
 
